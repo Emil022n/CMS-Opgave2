@@ -1,0 +1,53 @@
+/* line 1, C:/KodeMappeV/CMS opgave 2/style.scss */
+.header-top {
+  height: 400px; }
+
+/* line 6, C:/KodeMappeV/CMS opgave 2/style.scss */
+.wide {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  background-image: url("imgs/giphy.gif");
+  background-size: contain; }
+
+/* line 14, C:/KodeMappeV/CMS opgave 2/style.scss */
+h1 {
+  margin: 10px;
+  width: 100%;
+  height: 50%;
+  position: absolute;
+  text-align: center;
+  color: white; }
+
+/* line 24, C:/KodeMappeV/CMS opgave 2/style.scss */
+nav {
+  width: 100%;
+  display: flex;
+  margin-bottom: 10px;
+  align-items: flex-end; }
+
+/* line 30, C:/KodeMappeV/CMS opgave 2/style.scss */
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-around; }
+
+/* line 38, C:/KodeMappeV/CMS opgave 2/style.scss */
+nav ul li {
+  flex-grow: 1;
+  text-align: center; }
+
+/* line 43, C:/KodeMappeV/CMS opgave 2/style.scss */
+nav ul li a {
+  display: block;
+  color: white; }
+
+/* line 48, C:/KodeMappeV/CMS opgave 2/style.scss */
+.container {
+  background-image: url("imgs/background.gif");
+  background-size: contain; }
+
+/*# sourceMappingURL=style.css.map */
